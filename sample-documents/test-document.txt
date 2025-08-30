@@ -1,0 +1,27 @@
+Document Reader Test File
+
+This is a sample text document to test the Document Reader application.
+
+The application uses PyTorch and various AI models to analyze and extract text from different document formats including:
+
+1. Plain text files (.txt)
+2. PDF documents (.pdf)
+3. Microsoft Word documents (.docx)
+4. Image files with text (.jpg, .png, .jpeg, .bmp, .tiff)
+
+Key Features:
+- AI-powered text extraction
+- Confidence scoring using machine learning models
+- Real-time processing with performance metrics
+- Modern Angular frontend with responsive design
+- FastAPI backend with automatic documentation
+
+Technical Stack:
+- Frontend: Angular 17, TypeScript, RxJS
+- Backend: Python, FastAPI, PyTorch
+- AI/ML: Transformers, DistilBERT, Tesseract OCR
+- Image Processing: OpenCV, Pillow
+
+This document contains enough text to demonstrate the text quality analysis feature, which uses a pre-trained DistilBERT model to assess the readability and coherence of extracted content.
+
+The application is designed to handle various document types and provide meaningful feedback about the extraction process, including confidence scores and processing times.
