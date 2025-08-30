@@ -1,4 +1,4 @@
-# Document Reader Application
+# Document Reader Application by Cline
 
 A full-stack application that uses Angular for the frontend and Python with PyTorch for the backend to read and analyze documents using AI.
 
